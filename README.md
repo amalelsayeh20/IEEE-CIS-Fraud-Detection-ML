@@ -1,18 +1,10 @@
-\# IEEE-CIS Fraud Detection
-
-
+ IEEE-CIS Fraud Detection
 
 An end-to-end machine learning project focused on detecting fraudulent financial transactions using the IEEE-CIS dataset.  
 
 The project demonstrates a complete data science workflow, from data preprocessing and feature engineering to model training, evaluation, and performance analysis.
 
-
-
----
-
-
-
-\## Project Description
+# Project Description
 
 Fraud detection is a critical challenge in financial systems due to highly imbalanced data and evolving fraud patterns.  
 
@@ -32,11 +24,7 @@ The workflow emphasizes:
 
 
 
----
-
-
-
-\##  Dataset
+#  Dataset
 
 The IEEE-CIS dataset consists of transactional and identity-related features representing real-world financial operations.  
 
@@ -48,11 +36,8 @@ It contains a large number of anonymized numerical and categorical variables des
 
 
 
----
 
-
-
-\##  Project Workflow
+#  Project Workflow
 
 1\. \*\*Data Understanding\*\*
 
